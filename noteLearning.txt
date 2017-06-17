@@ -1,0 +1,14 @@
+function:
+1)from sklearn.datasets import load_svmlight_file
+example: 
+	train_X,train_y=load_svmlight_file(train_file)
+	
+2)???
+	import pcorrelation as pcorr
+	pcorr.corrcoef_result(train_x,train_y)  // don't get it    read codes ahead
+
+3)???
+	import infortancegain as info
+	infogain=info.infogain_result(train_x,train_y) //
+	
+	
